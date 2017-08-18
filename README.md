@@ -10,3 +10,5 @@ per month.
 <img src="https://shaheenhyderk.github.io/IMG_20170808_223111.jpg" width="500" height="400">
 
 Now create repository and go to settings and change the theme.Now start editing with readme.md.
+
+For creating more pages, create new repository
