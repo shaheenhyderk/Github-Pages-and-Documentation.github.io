@@ -49,6 +49,9 @@ $ For creating more pages, create new repository and link it in your page
 $ For clering doubt depend on help
 ```
 
+#### For watching tutorial:
+[<img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/58-youtube-512.png" width="75" height="75">](https://www.youtube.com/watch?v=ozI34hW-JME)
+
 ## Install softwares
 
 ```markdown
